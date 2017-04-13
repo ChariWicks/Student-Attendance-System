@@ -1,0 +1,7 @@
+UnitID            UnitName          RoomNo            RoomName          LecturerName      RoomCapacity      NoOfStudentEnrolled
+ECSC410           SDP01             21.206            BreakoutRoom      Dr.Foster         6                 4
+ECSC412           CSF               20.305            LectureHall(A)    Dr.Furious        10                5
+ECSC414           IDM               22.105            DesignLab         Dr.Sunny          6                 3
+ECSC416           CSSE              23.306            LectureHall(B)    Dr.Happy          8                 5
+ECSC418           SDPD              21.208            OracleLab         Dr.Shine          8                 4                                                
+ECSC444           SPD               401.00            Lab               Mrs.Bean          4                 2                 

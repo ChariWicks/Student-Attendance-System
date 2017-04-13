@@ -1,0 +1,8 @@
+RoomNo            RoomName          RoomCapacity
+21.206            BreakoutRoom      6 
+20.305            LectureHall(A)    10  
+22.105            DesignLab         6
+23.306            LectureHall(B)    8
+21.208            OracleLab         8                                                  
+409.89            Lab               4                 
+               

@@ -1,0 +1,12 @@
+RoomNo          StudentID          UnitID          LecturerName          Date          WeekNo  
+21.206          2015020            ECSC410         Dr.Foster             15/09/2015    01
+21.206          2015029            ECSC410         Dr.Foster             15/09/2015    01
+21.206          2015096            ECSC410         Dr.Foster             15/09/2015    01
+21.206          2015256            ECSC410         Dr.Foster             15/09/2015    01
+20.305          2014001            ECSC412         Dr.Furious            15/09/2015    01
+20.305          2015211            ECSC412         Dr.Furious            15/09/2015    01
+22.105          2014088            ECSC414         Dr.Sunny              15/09/2015    01
+23.306          2015002            ECSC416         Dr.Happy              15/09/2015    01
+23.306          2014001            ECSC416         Dr.Happy              15/09/2015    01
+21.208          2015096            ECSC418         Dr.Shine              15/09/2015    01
+21.208          2015211            ECSC418         Dr.Shine              15/09/2015    01
